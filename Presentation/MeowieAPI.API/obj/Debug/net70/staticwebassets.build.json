@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Qxtxk5A17yhKtBb8jOu1v2tm+0rQXzG97+kRKkXp0FU=",
+  "Source": "MeowieAPI.API",
+  "BasePath": "_content/MeowieAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeowieAPI.API\\wwwroot",
+      "Source": "MeowieAPI.API",
+      "ContentRoot": "C:\\Users\\Yusuf\\Desktop\\Projects\\MeowieAPI\\Presentation\\MeowieAPI.API\\wwwroot\\",
+      "BasePath": "_content/MeowieAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Yusuf\\Desktop\\Projects\\MeowieAPI\\Presentation\\MeowieAPI.API\\wwwroot\\resource\\profile-pictures\\username.png",
+      "SourceId": "MeowieAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yusuf\\Desktop\\Projects\\MeowieAPI\\Presentation\\MeowieAPI.API\\wwwroot\\",
+      "BasePath": "_content/MeowieAPI.API",
+      "RelativePath": "resource/profile-pictures/username.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\profile-pictures\\username.png"
+    },
+    {
+      "Identity": "C:\\Users\\Yusuf\\Desktop\\Projects\\MeowieAPI\\Presentation\\MeowieAPI.API\\wwwroot\\resource\\profile-pictures\\yusufkal24.JPG",
+      "SourceId": "MeowieAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yusuf\\Desktop\\Projects\\MeowieAPI\\Presentation\\MeowieAPI.API\\wwwroot\\",
+      "BasePath": "_content/MeowieAPI.API",
+      "RelativePath": "resource/profile-pictures/yusufkal24.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\profile-pictures\\yusufkal24.JPG"
+    }
+  ]
+}
